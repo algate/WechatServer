@@ -22,6 +22,7 @@ urlpatterns = [
 
     # add
     url(r'^$', views.home, name='home'),
-    # 验证token
+
+    # 微信接口 - 验证token
     # url(r'weixin/.*', views.wechat),
 ]

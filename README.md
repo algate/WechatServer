@@ -7,3 +7,8 @@ ding -config=ding.cfg -subdomain=xxx 8008
 
 # 启动Django Web服务：
 py manage.py runserver 8008
+
+微信公众号： 前端洋葱
+
+
+

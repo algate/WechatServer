@@ -27,6 +27,7 @@ SECRET_KEY = '4+o6%7wwa3zf=m3@oy+&_4_i#cdnhr2g%+!+jx0**!&=7n95t7'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    # 内网穿透地址
     '127.0.0.1',
 ]
 
